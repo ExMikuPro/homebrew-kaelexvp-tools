@@ -2,8 +2,8 @@ class Kaeldock < Formula
   desc "Terminal SDK manager with a full-screen TUI"
   homepage "https://github.com/ExMikuPro/KaelDock"
   url "https://github.com/ExMikuPro/KaelDock/archive/refs/heads/main.tar.gz"
-  version "0.0.0-main"
-  sha256 "fa98774022ac84e42a6feb0f53e06ff5827523b6bf1a8fa79ca76f30c01b3595"
+  version "0.1.0"
+  sha256 "20284d664532b42556dc7eec223f67fba76d896dcacae6dbf3231baa87b8ffea"
 
   depends_on "cmake" => :build
   depends_on "ncurses"
